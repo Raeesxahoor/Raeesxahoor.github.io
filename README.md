@@ -1,1 +1,2 @@
-# Raeesxahoor.github.io
+# JS-Projects
+Basic JS projects
